@@ -25,7 +25,8 @@ export default function Home() {
             </h3>
             <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
               <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-                Where culture meets crypto. Reach us anytime <Link href="mailto:chris@tw3.us">here</Link> anytime.
+                Where culture meets crypto. Reach us anytime
+                <Link href="mailto:chris@tw3.us">here</Link> anytime.
               </p>
             </div>
           </div>
